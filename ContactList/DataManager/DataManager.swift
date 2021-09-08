@@ -39,7 +39,7 @@ class DataManager {
         "jhg@gmail.com",
         "nbh@gmail.com",
         "zxc@gmail.com",
-        "oiu@gmail.com",
+        "pbb@gmail.com",
         "bfy@gmail.com",
         "pjh@gmail.com",
         "dff@gmail.com",
@@ -48,7 +48,7 @@ class DataManager {
         "iuy@gmail.com",
         "mmm@gmail.com",
         "trc@gmail.com",
-        "oiu@gmail.com",
+        "qaz@gmail.com",
         "vvv@gmail.com"
     ]
     
