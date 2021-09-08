@@ -35,21 +35,11 @@ class DataManager {
     ]
     
     let emails = [
-        "qrt@gmail.com",
-        "jhg@gmail.com",
-        "nbh@gmail.com",
-        "zxc@gmail.com",
-        "pbb@gmail.com",
-        "bfy@gmail.com",
-        "pjh@gmail.com",
-        "dff@gmail.com",
-        "sdf@gmail.com",
-        "oiu@gmail.com",
-        "iuy@gmail.com",
-        "mmm@gmail.com",
-        "trc@gmail.com",
-        "qaz@gmail.com",
-        "vvv@gmail.com"
+        "qrt@gmail.com", "jhg@gmail.com", "nbh@gmail.com",
+        "zxc@gmail.com", "pbb@gmail.com", "bfy@gmail.com",
+        "pjh@gmail.com", "dff@gmail.com", "sdf@gmail.com",
+        "oiu@gmail.com", "iuy@gmail.com", "vvv@gmail.com",
+        "trc@gmail.com", "qaz@gmail.com", "mmm@gmail.com",
     ]
     
     private init() {}
