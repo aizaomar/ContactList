@@ -1,2 +1,4 @@
 # ContactList
 - TableView
+- DataManager
+- Models
